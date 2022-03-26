@@ -25,7 +25,7 @@ function Login() {
 
     return(
         <form className="login__form" onSubmit={handleSubmit}>
-            <h1 className="login__title">Log in to Twitter</h1>
+            <h1 className="login__title">Log in</h1>
 
             <input
             className="login__input1"
