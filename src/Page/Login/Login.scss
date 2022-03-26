@@ -1,0 +1,41 @@
+.login__form{
+    max-width: 450px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 60px;
+}
+
+.login__input1{
+    width: 450px;
+    height: 70px;
+    margin-bottom: 25px;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.login__btn{
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #1DA1F2;
+    border-radius: 76px;
+    padding: 20px 195px;
+    border: none;
+    cursor: pointer;
+}
+
+.login__box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+}

@@ -1,0 +1,36 @@
+.input__user{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 30px;
+    margin-bottom: 25px;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.user__list{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+.user__item{
+    text-align: center;
+    width: 500px;
+    border: 1px solid black;
+    list-style: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.user__link{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
